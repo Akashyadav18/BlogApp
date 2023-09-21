@@ -2,15 +2,15 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 .wrapper{
     background-color: var(--softTextColor);
-    padding: 150px 200px;
+    padding: 100px 200px;
     display: flex;
     flex-direction: column;
-    gap: 100px;
+    gap: 60px;
     border-radius: 10px;
 }
 
