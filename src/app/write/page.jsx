@@ -20,7 +20,7 @@ const Write = () => {
         return <p>Loading...</p>
     }
 
-    if(status === "authenticated"){
+    if(status === "unauthenticated"){
         router.push("/");
     }
 
