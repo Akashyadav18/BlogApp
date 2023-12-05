@@ -19,4 +19,6 @@ export default function Home({searchParams}) {
     </div>
   )
 }
-//2:20
+// check if the mongo DB is running if there is error in fetching data in category & category list
+//npx prisma studio
+// npm run dev
